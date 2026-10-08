@@ -2,7 +2,8 @@
 
 全台 22 縣市 2,001 家動物醫院，政府公開登記資料。可搜尋、選縣市、只看 24 小時急診或貓專科，手機定位列出最近的幾家，一鍵打電話或導航。
 
-- 線上版：（GitHub Pages 網址，開通後補）
+- 線上版：https://chen-mouchin.github.io/cat-vets-finder/
+- 原始碼：https://github.com/Chen-MouChin/cat-vets-finder
 - 規格書：[SPEC.md](SPEC.md)
 - 完整網站：貓健康站 https://chen-mouchin.github.io/cat-health-tw/ （這一頁是站上的獸醫院查詢頁）
 
